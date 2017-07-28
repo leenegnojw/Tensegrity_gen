@@ -2,7 +2,7 @@
 
 Of course you could make one or two and just scale, but what is the fun? 
 This small project helps in creating these structures. You can pick the floating or contact-based version.
-Please see the pdf or YouMagine link for more visual information and a quick derivation. 
+Please see the pdf or YouMagine link(https://www.youmagine.com/designs/tensegrity_gen-cuboctahedron) for more visual information and a quick derivation. 
 
 ## Dependencies
 Made with Python 2.7.6, Numpy 1.13.1, Matplotlib 2.0.2 and it relies on numpy-stl 2.3.2
