@@ -10,4 +10,4 @@ The first one is contact based, with a 40mm leg input and a hole for assembly
 ```
 floating_tensegrity_leg.STL
 ``` 
-The second one is floatin based with a 60mm chord length, resulting in a 103.9mm leg length and of course holes for assembly. 
+The second one is floating based with a 60mm chord length, resulting in a 103.9mm leg length and of course holes for assembly. 
